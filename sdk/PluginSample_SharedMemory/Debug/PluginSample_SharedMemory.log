@@ -1,0 +1,4 @@
+﻿  PluginSample_SharedMemory.cpp
+c:\users\mywinpc\desktop\kyb_vw_class\build_ismotionkit_1\sdk\pluginsample_sharedmemory\pluginsample_sharedmemory.cpp(154): warning C4715: 'Plugin::initfile': not all control paths return a value
+     Creating library C:\Users\MywinPC\Desktop\KYB_VW_class\build_isMotionKit_1\sdk\Debug\PluginSample_SharedMemory.lib and object C:\Users\MywinPC\Desktop\KYB_VW_class\build_isMotionKit_1\sdk\Debug\PluginSample_SharedMemory.exp
+  PluginSample_SharedMemory.vcxproj -> C:\Users\MywinPC\Desktop\KYB_VW_class\build_isMotionKit_1\sdk\Debug\PluginSample_SharedMemory.dll
